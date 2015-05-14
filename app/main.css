@@ -1,0 +1,10 @@
+.container{
+	width:50%;
+}
+
+.brand-logo{
+	background-image: url(profile-photo.jpg);
+	width:100%;
+	height:190px;
+}
+
